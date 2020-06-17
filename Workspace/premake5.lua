@@ -80,7 +80,7 @@ project "Sandbox"
 
 	includedirs
 	{
-		"/box2d/include"
+		"box2d/include"
 	}
 
 	links
