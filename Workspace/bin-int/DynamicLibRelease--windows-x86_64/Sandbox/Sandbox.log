@@ -1,0 +1,2 @@
+﻿  main.cpp
+LINK : fatal error LNK1181: cannot open input file 'A:\Projects\OpenProjects\Box2D\Workspace\bin\DynamicLibRelease--windows-x86_64\Box2D\Box2D.lib'

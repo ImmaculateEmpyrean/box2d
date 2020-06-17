@@ -1,0 +1,2 @@
+A:\Projects\OpenProjects\Box2D\Workspace\bin\Debug--windows-x86_64\Box2D\Box2D.pdb
+A:\Projects\OpenProjects\Box2D\Workspace\bin-int\Debug--windows-x86_64\Box2D\Box2D.pdb
